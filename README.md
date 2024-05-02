@@ -22,13 +22,12 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/GuillaumeFalourd?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/GuillaumeFalourd?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 <p align="left">
-<a href="https://github.com/GuillaumeFalourd">
-  <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
+<a href="https://github.com/Charyyewich">
 </a>
 </p>
   
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KeremCharyyew" />
 <!--   <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg" /> -->
 </p>  
 
