@@ -19,35 +19,10 @@
 ### Analytics ⚙️
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8496462?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/8496462)
-[![GitHub User's stars](https://img.shields.io/github/stars/GuillaumeFalourd?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/GuillaumeFalourd?tab=repositories&q=&type=public&language=&sort=stargazers)
-
-<p align="left">
-<a href="https://github.com/Charyyewich">
-</a>
-</p>
-  
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KeremCharyyew" />
-<!--   <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg" /> -->
-</p>  
-
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+[![GitHub User's stars](https://img.shields.io/github/stars/GuillaumeFalourd?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/GuillaumeFalourd?tab=repositories&q=&type=public&language=&sort=stargazers)  
 
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="http://bit.ly/guillaumefalourdlinkedin"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdtwitter"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdstackoverflow"><img src="https://img.shields.io/badge/guifalourd-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdmedium"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourddevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
-<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/keremcharyyev">Instagram</a>
 </p>
-
-### Customize your README profile 🧑‍💻⭐
-
-#### 👉   _[Statistics](https://github.com/anuraghazra/github-readme-stats) ➕  [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ➕  [Snake animation](https://github.com/Platane/snk) ➕  [Metrics](https://github.com/marketplace/actions/metrics-embed)_
-
-#### 👉   _[STEP by STEP to create a similar README profile](https://bit.ly/devtoritgithubcreateprofile)_
-
-#### ... or fork this repository! 😁
