@@ -4,7 +4,7 @@
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-### Language & Tools 🛠
+### Language & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
