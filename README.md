@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/charyyef"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
