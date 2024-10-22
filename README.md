@@ -13,20 +13,17 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=keremcharyyev.keremcharyyev" />
 </div>
 
 ###
 
-<h1 align="center">Kerem Charyyef</h1>
+<h1 align="center">hey there 👋 I'm Kerem Charyyef</h1>
 
-###
+###  About Me
 
-<h3 align="left">About Me</h3>
+<p align="left">I'm Kerem Charyyev from Gaz-Francisko<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently learning Rust and Kubernetes<br>- ⚡ In my free time, I love playing video games and working out at my fitness club.</p>
 
-###
-
-<p align="left">I'm Kerem Charyyev from Gaz-Francisko<br><br>- 🔭 I’m working as Nodejs developer<br>- 📚 I'm currently learning Nestjs,Adonisjs<br>- ⚡ In my free time I like digital football</p>
 
 ###
 
@@ -61,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=keremcharyyef&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
