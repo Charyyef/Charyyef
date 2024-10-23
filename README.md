@@ -7,7 +7,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visitors-1000%2B-blue?style=for-the-badge" alt="Visitor count starting from 1000+" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=keremcharyyev.keremcharyyev" id="visitorBadge" />
+  <script>
+    fetch('https://visitor-badge.laobi.icu/badge?page_id=keremcharyyev.keremcharyyev')
+      .then(response => response.text())
+      .then(data => {
+        const startingCount = 1000; // Set your custom starting count here
+        const currentVisitors = parseInt(data.match(/\d+/)[0], 10); // Extract visitor count
+        const totalVisitors = startingCount + currentVisitors; // Add offset to current visitor count
+        document.getElementById('visitorBadge').alt = `Visitors: ${totalVisitors}`;
+      });
+  </script>
 </div>
 
 ###
