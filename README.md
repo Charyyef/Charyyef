@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo"  />
@@ -29,7 +28,6 @@
 
 <p align="left">I'm Kerem Charyyev from Gaz-Francisko<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently learning Rust and Kubernetes<br>- ⚡ In my free time, I love playing video games and working out at my fitness club.</p>
 
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -47,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
@@ -65,5 +63,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=charyyef&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
-###
