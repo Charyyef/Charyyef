@@ -8,16 +8,16 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=keremcharyyev.keremcharyyev" id="visitorBadge" />
-  <script>
-    fetch('https://visitor-badge.laobi.icu/badge?page_id=keremcharyyev.keremcharyyev')
-      .then(response => response.text())
-      .then(data => {
-        const startingCount = 1000; // Set your custom starting count here
-        const currentVisitors = parseInt(data.match(/\d+/)[0], 10); // Extract visitor count
-        const totalVisitors = startingCount + currentVisitors; // Add offset to current visitor count
-        document.getElementById('visitorBadge').alt = `Visitors: ${totalVisitors}`;
-      });
-  </script>
+<script>
+  // Assuming a current visitor count of 500 is retrieved (example logic)
+  const actualVisitors = 500; // Fetch this dynamically from the badge service if possible
+  const startingCount = 1000;
+  const totalVisitors = startingCount + actualVisitors;
+  
+  document.getElementById('visitorBadge').alt = `Visitors: ${totalVisitors}`;
+  console.log(`Visitors: ${totalVisitors}`);
+</script>
+
 </div>
 
 ###
