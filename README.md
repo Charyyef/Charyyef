@@ -8,7 +8,17 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=keremcharyyev.keremcharyyev" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=keremcharyyev.keremcharyyev" id="visitorBadge" />
+<script>
+  // Assuming a current visitor count of 500 is retrieved (example logic)
+  const actualVisitors = 500; // Fetch this dynamically from the badge service if possible
+  const startingCount = 1000;
+  const totalVisitors = startingCount + actualVisitors;
+  
+  document.getElementById('visitorBadge').alt = `Visitors: ${totalVisitors}`;
+  console.log(`Visitors: ${totalVisitors}`);
+</script>
+
 </div>
 
 ###
