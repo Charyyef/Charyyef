@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
 ###
