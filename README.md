@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-native/react-native-original-wordmark.svg" height="40" alt="react-native logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original-wordmark.svg" height="40" alt="react-native logo"  />
 </div>
 
 ###
