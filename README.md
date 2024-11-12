@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I am Kerem Charyyef</h1>
+<h1 align="center">hey there 👋 I'm Kerem Charyyef</h1>
 
 ###  About Me
 
