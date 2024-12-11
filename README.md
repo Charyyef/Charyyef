@@ -13,11 +13,11 @@
 
 ###
 
-<h1 align="center">hey there 👋 I am Kerem Charyyef</h1>
+<h1 align="center">hey there 👋 I'm Kerem Charyyef <a href="keremcharyyef.vercel.app">CV</a></h1>
 
 ###  About Me
 
-<p align="left">I'm Kerem Charyyev from Gaz-Francisko<br><br>- 🔭 I am working as a software engineer<br>- 📚 I'm currently learning NodeJs and Kubernetes<br>- ⚡ In my free time, I love playing video games and working out at my fitness club.</p>
+<p align="left">I'm Kerem Charyyev from Gaz-Francisko <br><br>- 🔭 I am working as a software engineer<br>- 📚 I'm currently learning NodeJs and Kubernetes<br>- ⚡ In my free time, I love playing video games and working out at my fitness club.</p>
 
 ###
 
