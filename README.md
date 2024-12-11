@@ -13,11 +13,15 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Kerem Charyyef <a href="keremcharyyef.vercel.app">CV</a></h1>
+<h1 align="center"> I'm Kerem Charyyef and it's my <a href="https://keremcharyyef.vercel.app">CV</a></h1>
 
 ###  About Me
 
-<p align="left">I'm Kerem Charyyev from Gaz-Francisko <br><br>- 🔭 I am working as a software engineer<br>- 📚 I'm currently learning NodeJs and Kubernetes<br>- ⚡ In my free time, I love playing video games and working out at my fitness club.</p>
+<p align="left">I'm a skilled software developer with experience in TypeScript and
+        JavaScript, and expertise in frameworks like React, Node.js. 
+        I'm a quick learner and collaborate closely with clients to
+        create efficient, scalable, and user-friendly solutions that solve
+        real-world problems. Let's work together to bring your ideas to life!  <br><br>- 🔭 I am working as a backend developer<br>- 📚 I'm currently learning Docker and Kubernetes<br>- ⚡ In my free time, I love playing video games and working out at my fitness club.</p>
 
 ###
 
